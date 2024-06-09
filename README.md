@@ -1,2 +1,4 @@
-# DahelClassPracticals
-This is to house all practicals i will be doing through out my training journey with Dahel
+## DahelClassPracticals
+
+*This is to house all practicals I will be doing throughout my training journey with Dahel*
+
